@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Reflection in the mirror",
+  "base_artist": "スリーズブーケ",
+  "createdAt": "2026-02-12T12:05:39.481829Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Reflection in the mirror",
+      "artist": "Cerise Bouquet",
+      "has_synced": true,
+      "path": "select/01_Reflection_in_the_mirror_Cerise_Bouquet.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Reflection in the mirror (104期NEW Ver.)",
+      "artist": "スリーズブーケ",
+      "has_synced": true,
+      "path": "select/02_Reflection_in_the_mirror_(104期NEW_Ver.)_スリーズブーケ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Reflection in the mirror",
+      "artist": "スリーズブーケ",
+      "has_synced": true,
+      "path": "select/03_Reflection_in_the_mirror_スリーズブーケ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Reflection in the mirror (104th NEW Ver.)",
+      "artist": "スリーズブーケ",
+      "has_synced": true,
+      "path": "select/04_Reflection_in_the_mirror_(104th_NEW_Ver.)_スリーズブーケ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Reflection in the mirror (104th NEW Version) (Off Vocal)",
+      "artist": "Cerise Bouquet",
+      "has_synced": false,
+      "path": "select/05_Reflection_in_the_mirror_(104th_NEW_Version)_(Off_Vocal)_Cerise_Bouquet.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Reflection in the mirror",
+      "artist": "スリーズブーケ",
+      "has_synced": false,
+      "path": "select/pl_01_Reflection_in_the_mirror_スリーズブーケ.txt"
+    }
+  ]
+}
